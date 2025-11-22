@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Nhóm 1 - Tin học 12</title>
+</head>
+<body>
+
+    <h1 style="text-align:center;">NHÓM 1</h1>
+
+    <!-- PHẦN 1: THÀNH VIÊN -->
+    <h2>Thành viên</h2>
+    <ul>
+        <li>Âu Mỹ Uyên</li>
+        <li>Hoàng Xuân Yến</li>
+        <li>Lê Bạch Tường Vy</li>
+        <li>Tô Thuỵ Thảo Hiền</li>
+        <li>Nguyễn Trương Tuyền</li>
+    </ul>
+
+    <hr>
+
+    <!-- PHẦN 2: BÀI HỌC -->
+    <h2>Bài học</h2>
+    <ol>
+        <li>Bài 1</li>
+        <li>Bài 2</li>
+        <li>Bài 3</li>
+        <li>Bài 4</li>
+        <li>Bài 5</li>
+        <li>Bài 6</li>
+        <li>Bài 7</li>
+        <li>Bài 8</li>
+        <li>Bài 9</li>
+        <li>Bài 10</li>
+        <li>Bài 11</li>
+        <li>Bài 12</li>
+    </ol>
+
+    <hr>
+
+    <!-- PHẦN 3: FORM ĐIỀN THÔNG TIN -->
+    <h2>Form điền thông tin</h2>
+
+    <form>
+        <label>Họ và tên:</label><br>
+        <input type="text"><br><br>
+
+        <label>Ngày tháng năm sinh:</label><br>
+        <input type="date"><br><br>
+
+        <label>Số điện thoại:</label><br>
+        <input type="text"><br><br>
+
+        <label>Trường học:</label><br>
+        <input type="text"><br><br>
+
+        <label>Lớp:</label><br>
+        <input type="text"><br><br>
+
+        <button>Gửi</button>
+    </form>
+
+</body>
+</html>
